@@ -14,6 +14,6 @@ Here is the demo video where we run the whome project
 
 ### Collaborators
 This project was developped by :
-| Raoua Trimech | Hadil Helali | Soulaima Kahla |
-| --- | --- | --- |
+| Raoua Trimech | Hadil Helali |
+| --- | --- |
 
